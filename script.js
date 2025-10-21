@@ -12,4 +12,4 @@ function updateTime() {
   }
 }
 
-setInterval(updateTime, 1);
+setInterval(updateTime, 100);
