@@ -1,4 +1,3 @@
-
 function updateTime() {
   const timeElement = document.getElementById('user-time');
   
